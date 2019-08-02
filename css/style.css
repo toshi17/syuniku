@@ -1349,4 +1349,8 @@ h6 {
   text-decoration: none;
   outline: none;
 }
+
+.icon-img {
+  border-radius: 60px;
+}
 /*# sourceMappingURL=style.css.map */
