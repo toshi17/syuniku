@@ -978,19 +978,19 @@ h1, h2, h3, h4, h5, h6 {
 					padding-right: 16px!important;
 					padding-top: 7px!important;
 					padding-bottom: 7px!important;
-					background: $brand-secondary;
-					border: 2px solid $brand-secondary;
-					color: $brand-white!important;
+					background: $brand-primary;
+					border: 2px solid $brand-primary;
+					color: $brand-secondary!important;
 					@include border-radius(30px);
-					&:hover {
-						background: lighten($brand-secondary, 7%);
-						border: 2px solid lighten($brand-secondary, 7%);
-						text-decoration: none;
-						color: $brand-white!important;
-						&:after {
-							display: none;
-						}
-					}
+					// &:hover {
+					// 	background: lighten($brand-secondary, 7%);
+					// 	border: 2px solid lighten($brand-secondary, 7%);
+					// 	text-decoration: none;
+					// 	color: $brand-white!important;
+					// 	&:after {
+					// 		display: none;
+					// 	}
+					// }
 				}
 			}
 			.dropdown-menu-wrap {

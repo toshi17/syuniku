@@ -805,20 +805,13 @@ h1, h2, h3, h4, h5, h6 {
           padding-right: 16px !important;
           padding-top: 7px !important;
           padding-bottom: 7px !important;
-          background: #FCEDDA;
-          border: 2px solid #FCEDDA;
-          color: #fff !important;
+          background: #FF5126;
+          border: 2px solid #FF5126;
+          color: #FCEDDA !important;
           -webkit-border-radius: 30px;
           -moz-border-radius: 30px;
           -ms-border-radius: 30px;
           border-radius: 30px; }
-          #fh5co-offcanvas ul li.cta a:hover {
-            background: #fffdfb;
-            border: 2px solid #fffdfb;
-            text-decoration: none;
-            color: #fff !important; }
-            #fh5co-offcanvas ul li.cta a:hover:after {
-              display: none; }
       #fh5co-offcanvas ul li .dropdown-menu-wrap ul {
         margin-top: 10px; }
         #fh5co-offcanvas ul li .dropdown-menu-wrap ul li {
